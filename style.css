@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+.tekst{
+    color: rgb(184, 65, 65);
+    font-size:x-large;
+    width: 750px;
+    position: absolute;
+    
+}
+.tekst1{
+    color: rgb(23, 55, 153);
+    font-size:x-large;
+    width: 750px;
+    top: 180%;
+    position: absolute;
+}
